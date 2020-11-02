@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**spyrado/spyrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ---
+<p>
+  <img width="180" align='left' src="https://github.com/spyrado/spyrado/blob/main/imagens/ezgif-3-a4635746fc7d.gif">
+</p>
+<p>
+  <img width="180" align='right' src="https://github.com/spyrado/spyrado/blob/main/imagens/ezgif-3-a4635746fc7d.gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front End Enginner 🎃
+
+* Doces ou travessuras? 🍬🍬🍬
+
+---
+---
+---
+---
+---
+<p>
+  <img align='left' src="https://github-readme-stats.vercel.app/api?username=spyrado&show_icons=true&theme=radical&count_private=true&include_all_commits=true&title_color=8c15b9&text_color=13F077&icon_color=F0B243&bg_color=1a1e2d"></a>
+</p>
+<p>
+  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyrado&layout=compact"></a>
+</p>
