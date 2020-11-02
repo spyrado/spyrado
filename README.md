@@ -17,6 +17,6 @@
 ---
 ---
 ---
-<img width="400" align='left' src="https://github-readme-stats.vercel.app/api?username=spyrado&show_icons=true&theme=radical&count_private=true&include_all_commits=true&title_color=8c15b9&text_color=13F077&icon_color=F0B243&bg_color=1a1e2d">
+<img width="450" align='left' src="https://github-readme-stats.vercel.app/api?username=spyrado&show_icons=true&theme=radical&count_private=true&include_all_commits=true&title_color=8c15b9&text_color=13F077&icon_color=F0B243&bg_color=1a1e2d">
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyrado&layout=compact">
